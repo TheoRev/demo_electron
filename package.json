@@ -1,0 +1,23 @@
+{
+  "name": "demo_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoRev/demo_electron.git"
+  },
+  "author": "Theo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoRev/demo_electron/issues"
+  },
+  "homepage": "https://github.com/TheoRev/demo_electron#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "electron": "^1.6.11"
+  }
+}
